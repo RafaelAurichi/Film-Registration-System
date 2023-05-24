@@ -26,7 +26,7 @@ Open the config.php file in a text editor.
 Update the database configuration values with your MySQL database details (e.g., host, username, password, database name).
 Save the changes to the config.php file.
   
-### Step 3: Import the Database Schema
+## Step 3: Import the Database Schema
 In the project's root directory, locate the SQL file with the database schema (e.g., database.sql).
 Open your MySQL management tool (e.g., phpMyAdmin, MySQL Workbench).
 Create a new database or select the existing database where you want to import the schema.
